@@ -1,0 +1,10 @@
+app/ij/mlwithtensorflowlite/MainActivity.java
+ app.ij.mlwithtensorflowlite.MainActivity
+ app.ij.mlwithtensorflowlite.MainActivity$1
+ app.ij.mlwithtensorflowlite.MainActivity$2
+app/ij/mlwithtensorflowlite/ml/Model.java
+ app.ij.mlwithtensorflowlite.ml.Model
+ app.ij.mlwithtensorflowlite.ml.Model$1
+ app.ij.mlwithtensorflowlite.ml.Model$Outputs
+app/ij/mlwithtensorflowlite/BuildConfig.java
+ app.ij.mlwithtensorflowlite.BuildConfig
